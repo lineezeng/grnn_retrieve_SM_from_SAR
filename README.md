@@ -6,4 +6,4 @@ For each BSSM-backscatter model or BSSM-backscatter-roughness model, the valid r
 ‘tenfold_regr_rf.m’ and ‘tenfold_regr.m’ are the traditional regression function using or not using roughness effect. 
 
 ‘raw data2020.xlsx’ in the all m files consist of No. series, latitude, longitude, root-mean-square height (S), correlation length (L), hh-polarization backscattering coefficient, hh-polarization backscattering coefficient, hv-polarization backscattering coefficient, vh-polarization backscattering coefficient (from the left to the right). 
-Please use the supplementary table S1 to get the ‘raw data2020.xlsx’. 
+It is also ably to use the supplementary table S1 to get the ‘raw data2020.xlsx’. 
